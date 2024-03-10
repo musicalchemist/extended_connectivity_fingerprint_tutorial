@@ -4,8 +4,8 @@ This Jupyter notebook is a guide and implementation for generating and understan
 
 ## Features
 
-- **Custom ECFP Implementation:** A simplified Python implementation of ECFPs to illustrate the core concepts behind their generation.
-- **ECFP Generation with RDKit:** Step-by-step code demonstrations on how to compute ECFPs using the RDKit library, along with detailed explanations of each step.
+- **Custom ECFP Implementation:** A simplified Python implementation of ECFPs from scratch to illustrate the core concepts behind their generation.
+- **ECFP Generation with RDKit:** Code demonstrations on how to compute ECFPs using the RDKit library.
 
 ## Requirements
 
