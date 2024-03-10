@@ -1,6 +1,15 @@
 # Extended Connectivity Fingerprints (ECFP) Analysis Notebook
 
+![](ecfp_diagram_1.png)
+![](ecfp_diagram_2.png)
+
 This Jupyter notebook is a guide and implementation for generating and understanding Extended Connectivity Fingerprints (ECFPs) for chemical compounds. ECFPs are a type of molecular fingerprint widely used in cheminformatics for tasks such as similarity searching, virtual screening, and compound classification.
+
+This is the code repo for my blog post on ECFPs: https://medium.com/@musicalchemist/from-theory-to-code-a-deep-dive-into-molecular-extended-connectivity-fingerprints-ecfps-with-da1ed436925e
+
+Image Refs:
+- https://ursula.chem.yale.edu/~batista/classes/CHEM584/ci100050t.pdf
+- https://docs.chemaxon.com/display/docs/extended-connectivity-fingerprint-ecfp.md
 
 ## Features
 
